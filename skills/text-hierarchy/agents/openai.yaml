@@ -1,0 +1,4 @@
+interface:
+  display_name: "Text Hierarchy"
+  short_description: "Dirección visual, densidad y jerarquía de textos"
+  default_prompt: "Usá $text-hierarchy para definir la dirección visual y ajustar la cantidad de texto, jerarquía y legibilidad de esta interfaz."
